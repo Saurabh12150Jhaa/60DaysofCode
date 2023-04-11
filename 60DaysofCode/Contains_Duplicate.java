@@ -12,6 +12,7 @@ class prog1 {
         return false;   
     }
 }
+
 public class Contains_Duplicate {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
